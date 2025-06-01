@@ -209,7 +209,7 @@ MonoBehaviour:
   m_FireTransform: {fileID: 5231443342817525940}
   tower: {fileID: 5231443342982016319}
   sightRange: 100
-  attackRange: 70
+  attackRange: 22
   playerInSightRange: 0
   playerInAttackRange: 0
 --- !u!1 &5231443341761133532

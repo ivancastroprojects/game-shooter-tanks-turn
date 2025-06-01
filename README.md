@@ -2,7 +2,33 @@
 
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3%2B-blue.svg)](https://unity.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Suicide Tank** is a dynamic turn-based tactical shooter where players command powerful tanks in head-to-head combat. Engage in strategic battles, outmaneuver your opponent, and unleash devastating firepower to achieve victory. The game supports both player-versus-player and player-versus-AI modes, offering varying levels of challenge.
+**Suicide Tank** is a dynamic turn-based tactical shooter where players command powerful tanks in head-to-head combat. Engage in strategic battles, outmaneuver your opponent, and unleash devastating firepower to achieve victory.
+
+Initially designed with mobile gameplay in mind for **Android**, Suicide Tank is also fully enjoyable on **PC**.
+
+The game supports both player-versus-player and player-versus-AI modes, offering varying levels of challenge.
+
+## Media Showcase
+
+Watch the action unfold!
+
+**Trailer:**
+
+![Suicide Tank Trailer](./Media/TrailerGIFSuicideTanks.gif)
+
+*(Make sure TrailerGIFSuicideTanks.gif is in a 'Media' folder in your repository, or update the path)*
+
+**Screenshots:**
+
+| Android Gameplay                                  | Night Mode Battles                               |
+| :------------------------------------------------: | :----------------------------------------------: |
+| ![Playing on Android](./Media/Pic_playing_from_android.jpg) | ![Night Mode](./Media/Pic_nightmode.jpg)         |
+
+| Development Area                                  | PvP Action                                       |
+| :-------------------------------------------------: | :----------------------------------------------: |
+| ![Development Area](./Media/Pic_deveelopment_area_tank.jpg) | ![PvP Day Mode](./Media/Pic_PlayerVSPlayer_daymode.jpg) |
+
+*(Make sure the images above are in a 'Media' folder in your repository, or update their paths accordingly)*
 
 ## Gameplay & Features
 
@@ -107,4 +133,4 @@ SuicideTank/
 
 ---
 
-*This README is based on an analysis of the project's scripts and general game description. Specific details from `Document Challenge Init.pdf` and `Document Challenge Finished.pdf` could not be directly incorporated.*
+*This README is based on an analysis of the project's scripts and general game description. For an in-depth look at the development process, technical challenges, and design decisions, please refer to the document: **`Document Challenge Finished.pdf`** (available in the project repository).*
