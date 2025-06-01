@@ -16,7 +16,6 @@ Watch the action unfold!
 
 ![Suicide Tank Trailer](./Media/TrailerGIFSuicideTanks.gif)
 
-*(Make sure TrailerGIFSuicideTanks.gif is in a 'Media' folder in your repository, or update the path)*
 
 **Screenshots:**
 
@@ -40,6 +39,8 @@ Watch the action unfold!
     *   **Challenge Mode:** (Details to be expanded based on game content) Tackle specific combat scenarios and objectives.
 *   **AI Difficulty:** The AI opponent features adjustable difficulty levels, primarily influencing its attack precision and potentially tactical decision-making, controlled within `EnemyAIComputer.cs`.
 *   **Dynamic Environments:** Battle across diverse maps that may require different tactical approaches.
+
+![Showcase navigation AI path system](./Media/Pic_navigation_fullmap.png)
 
 ## Technical Overview & Architecture
 
@@ -82,6 +83,8 @@ Watch the action unfold!
 
 *   **`VacuneDose.cs`:**
     *   A simple script for health pickups. Randomly positions itself on the map and, upon collision with a tank, calls `TakeHealth()` on the tank's `health_damage` script.
+
+![Health box aleatory position](./Media/Pic_navigation2.png)
 
 *   **`CameraFollow.cs`:**
     *   Ensures the main camera smoothly follows the currently active tank, maintaining a consistent offset and orientation. Updates in `LateUpdate()` for optimal camera movement.
