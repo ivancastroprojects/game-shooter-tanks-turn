@@ -136,4 +136,4 @@ SuicideTank/
 
 ---
 
-*This README is based on an analysis of the project's scripts and general game description. For an in-depth look at the development process, technical challenges, and design decisions, please refer to the document: **`Document Challenge Finished.pdf`** (available in the project repository).*
+*This README is based on an analysis of the project's scripts and general game description. For an in-depth look at the development process, technical challenges, and design decisions, please refer to the document: **(https://raw.githubusercontent.com/ivancastroprojects/game-shooter-tanks-turn/Document Challenge Finished.pdf)** (available in the project repository).*
