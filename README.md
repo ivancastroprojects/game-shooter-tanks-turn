@@ -10,7 +10,7 @@ The game supports both player-versus-player and player-versus-AI modes, offering
 
 ## Media Showcase
 
-Watch the action unfold!
+Watch the action unfold! (wait a little for the video to load)
 
 **Trailer:**
 
@@ -136,4 +136,5 @@ SuicideTank/
 
 ---
 
-*This README is based on an analysis of the project's scripts and general game description. For an in-depth look at the development process, technical challenges, and design decisions, please refer to the document: **(https://raw.githubusercontent.com/ivancastroprojects/game-shooter-tanks-turn/Document Challenge Finished.pdf)** (available in the project repository).*
+For an in-depth look at the development process, technical challenges, and design decisions, please refer to the document:  
+[Document Challenge Finished.pdf (direct download)](https://github.com/ivancastroprojects/game-shooter-tanks-turn/raw/main/Document%20Challenge%20Finished.pdf)
