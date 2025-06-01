@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - CameraPoint
+  - Player2
+  - Player1
+  - Joystick
+  - SliderLaunchForce
+  - TouchField
+  - SliderHealthFill
+  - Touchfield
+  - Cam2
+  - Canvas
+  - SliderPlayer1
+  - SliderPlayer2
+  - SliderFill1
+  - SliderFill2
+  - Computer
+  - Bullet
+  - CollPlayer1
+  - CollPlayer2
+  - CollComp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - whatIsGround
+  - whatIsPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
